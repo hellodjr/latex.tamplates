@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage[english]{babel}
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}{definition}
+
+\begin{document}
+
+\section{Introduction}
+
+\begin{definition}
+    
+\end{definition}
+\begin{theorem}
+
+\end{theorem}
+
+\end{document}
